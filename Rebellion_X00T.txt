@@ -1,14 +1,3 @@
-Date - 05/04/2020
-=================
-
-Source Changelog
-================
-- Initial Changelog import
-
-Device Changelog
-================
-- Initial changelog import
-
 Date - 07/04/2020
 =================
 
