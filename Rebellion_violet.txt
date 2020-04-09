@@ -1,0 +1,32 @@
+Date - 09/04/2020 
+================= 
+
+- April Security Patch. 
+- Improved QS System info. 
+- Removed QS menu from QS Panel. 
+- Added DU-themes. 
+- Added RGB Accenter. 
+- Added RGB Gradienter. 
+- Added StatusBar Custom Logo. 
+- Added Custom Carrier Label. 
+- Added Header image with Rebellion Headers. 
+- Added Toggle to show Battery icon in QS Header. 
+- Added Toggle to hide entire settings in QS. 
+- Added User icon Toggle in QS. 
+- Added Toggle to hide Statusbar in Lockscreen. 
+- Added Loskscreen weather image & icons. 
+- Added battery LED customisations. 
+- Added Fastcharge LED. 
+- Added AOKP & Ethan's Animations. 
+- Added Toast animations. 
+- Added Powermenu Animations. 
+- Added option to enable scrolling cache. 
+- Added OTA (Reciving updates from the next Builds). 
+- Added QS Panel Opacity. 
+
+
+Device Changelog
+================
+- Initial Official build.
+- Azure kernel.
+- Enforce Build.
