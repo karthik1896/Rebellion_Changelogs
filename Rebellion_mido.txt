@@ -1,0 +1,60 @@
+Date - 09/04/2020
+=================
+
+Source Changelogs:
+× April Security Patch.
+× Improved QS System info.
+× Removed QS menu from QS Panel.
+× Added DU-themes.
+× Added RGB Accenter.
+× Added RGB Gradienter.
+× Added StatusBar Custom Logo.
+× Added Custom Carrier Label.
+× Added Header image with Rebellion Headers.
+× Added Toggle yo show Battery icon in QS Header.
+× Added Toggle to hide entire settings in QS.
+× Added User icon Toggle in QS.
+× Added Toggle to hide Statusbar in Lockscreen.
+× Added Lockscreen weather image & icons.
+× Added battery LED customisations.
+× Added Fastcharge LED.
+× Added AOKP & Ethan's Animations.
+× Added Toast animations.
+× Added Powermenu Animations.
+× Added option to enable scrolling cache.
+× Added OTA  (Reciving updates from the next Builds).
+× Added QS Panel Opacity.
+
+Device Changelogs:
+- Enforcing now
+- Reduce jitter and Make UI more smooth
+- Some rendering improvements
+- Use Coral April Fingerprint now
+- Better call voice quality
+- Fix Internal Sound Issue
+- Improve internet speed
+- Added flinger velocities
+- Some Tweaks For Better Ram Management
+- Enable manual network search
+- Added some snap camera overlays
+- Allow all apps to use smart replies
+- Update ADSP blobs from LA.UM.8.6.r1-04000-89xx.0
+- Update Audio/ACDB blobs from LA.UM.8.6.r1-04000-89xx.0 
+- Update Bluetooth from LA.UM.8.6.r1-04000-89xx.0
+- Update charger from LA.UM.8.6.r1-04000-89xx.0
+- Update DRM/Widevine from LA.UM.8.6.r1-04000-89xx.0
+- Update FM from LA.UM.8.6.r1-04000-89xx.0
+- Update perf blobs from LA.UM.8.6.r1-04000-89xx.0
+- Update Peripheral manager from LA.UM.8.6.r1-04000-89xx.0 
+- Update sensors from LA.UM.8.6.r1-04000-89xx.0
+- Update thermal from LA.UM.8.6.r1-04000-89xx.0
+- Update time blobs from LA.UM.8.6.r1-04000-89xx.0
+- Update Media from LA.UM.8.6.r1-04000-89xx.0 
+- Update Wi-Fi Display from LA.UM.8.6.r1-04000-89xx.0
+- Update GPS from LA.UM.8.6.r1-04000-89xx.0
+- Update Graphics stack from LA.UM.8.6.r1-04000-89xx.0
+- Update CNE/DPM blobs from LA.UM.8.6.r1-04000-89xx.0
+- Partially update QMI/RIL/IMS from LA.UM.8.6.r1-04000-89xx.0
+- Update stock blobs from V11.0.2.0.NCFMIXM
+- Allow 120fps video recording ( may work )
+and a lot more stuff as well...
