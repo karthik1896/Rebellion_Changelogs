@@ -1,0 +1,103 @@
+Device     : whyred
+Version    : v1.7
+Maintainer : Zeeshan Ahmed
+
+Source Changelogs
+=================
+- Fixed Statusbar & carrier label Fonts.
+- Fixed wallpaper flickering.
+- Fixed Advanced power menu crash.
+- Removed Gradient Switches & Added OP switches.
+- Added VoLTE Icon styles with Rebellion VoLTE Icons.
+- Added Old type network icon.
+- Added 3 fingers swipe Screenshot.
+- Added Rounded corners & Padding preferences.
+- Added inverse Navbar Toggle.
+- Added Navbar Layout.
+- Added Pocket mode in lockscreen.
+- Added Unlock with FP after reboot Toggle.
+- Added Ambient Visualizer.
+- Added Ambient Visualizer Opacity.
+- Added Lockscreen Clock styles.
+- Added Lockscreen clock, date fonts & sizes.
+- Added Lockscreen colors.
+- Added option to disable Lockscreen bottom shortcuts.
+- Added Custom Ambient display.
+- Added Pulse on new tracks Toggle.
+- Added Double Tap to Trigger Doze.
+- Added Doze Brightness options.
+- Added Ambient Edge Pulse.
+- Added Screen-off Animations.
+- Added Smart pixels.
+- Added Suspend Actions.
+- Added Aggressive Battery Toggle.
+- Added Live volume steps.
+- Added Fullscreen for Notch devices.
+- Added Smart charging.
+- Added Face unlock from PE.
+- Added Ambient battery Toggle.
+
+Device Changelogs
+=================
+
+*Use Latest OrangeFox Stable Recovery(R-10.1_2 Stable Version or higher)
+
+*For Pitchblack/Twrp Users(use the latest available)
+
+*Clean Flash Mandatory For This build(Otherwise i wont listen crashes and bugs report)
+
+MiuiCamera :-
+
+*Old Cam Blobs
+
+Device Side Changelogs:-
+
+*Switch to new Aosip Trees(Thanks to anunay,subhajeet and aosip team)
+
+*Adapt trees for whyred and some fixes(Thanks to keerten and keertesh)
+
+*Updates all blobs from LA.UM.8.2.r1-05100-sdm660.0
+
+*Switch to 1.3 PowerHal and adapt it for whyred
+
+*Fix vowifi for many carriers(china beta firmware recommended)
+
+*Added some missing miuicamera props
+
+*Fix front torch issue in miui camera
+
+*Add missing miui camera priv-app permission
+
+*Merge LA.UM.8.2.r1-06300-sdm660.0 tag in data-ipa-cfg-mgr
+
+*Ipacm: Fix WLAN tethering offload
+
+* Audio: add voice multi session property
+
+*Face Unlock: Add com.motorola.faceunlock package to aux cam list
+
+*Face Unlock: Address Denials for face unlock
+
+*Vowifi: Make WiFi Calling preference editable for Jio (India)
+
+*Ipacm: Address denials for wlan tethering offload
+
+* Disable HD logo
+
+* Add 2 instance support for record_24
+
+* Fix A2DP when offload is disabled
+
+* Fix yellow tint
+
+*Set virtual displays to 0
+
+* Enable high fps sf early phase offsets
+
+* Enable pm.sleep_mode
+
+* Some Rendering Fixes
+
+* Switch to Miui Offline Charging Animation
+
+* Maybe More....
