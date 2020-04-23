@@ -1,32 +1,47 @@
-Date - 09/04/2020 
-================= 
-
-- April Security Patch. 
-- Improved QS System info. 
-- Removed QS menu from QS Panel. 
-- Added DU-themes. 
-- Added RGB Accenter. 
-- Added RGB Gradienter. 
-- Added StatusBar Custom Logo. 
-- Added Custom Carrier Label. 
-- Added Header image with Rebellion Headers. 
-- Added Toggle to show Battery icon in QS Header. 
-- Added Toggle to hide entire settings in QS. 
-- Added User icon Toggle in QS. 
-- Added Toggle to hide Statusbar in Lockscreen. 
-- Added Loskscreen weather image & icons. 
-- Added battery LED customisations. 
-- Added Fastcharge LED. 
-- Added AOKP & Ethan's Animations. 
-- Added Toast animations. 
-- Added Powermenu Animations. 
-- Added option to enable scrolling cache. 
-- Added OTA (Reciving updates from the next Builds). 
-- Added QS Panel Opacity. 
+Device : violet
+Version : v1.7
+Maintainer : vishwas7
 
 
-Device Changelog
-================
-- Initial Official build.
-- Azure kernel.
-- Enforce Build.
+Source Changelogs
+=================
+- Fixed Statusbar & carrier label Fonts.
+- Fixed wallpaper flickering.
+- Fixed Advanced power menu crash.
+- Removed Gradient Switches & Added OP switches.
+- Added VoLTE Icon styles with Rebellion VoLTE Icons.
+- Added Old type network icon.
+- Added 3 fingers swipe Screenshot.
+- Added Rounded corners & Padding preferences.
+- Added inverse Navbar Toggle.
+- Added Navbar Layout.
+- Added Pocket mode in lockscreen.
+- Added Unlock with FP after reboot Toggle.
+- Added Ambient Visualizer.
+- Added Ambient Visualizer Opacity.
+- Added Lockscreen Clock styles.
+- Added Lockscreen clock, date fonts & sizes.
+- Added Lockscreen colors.
+- Added option to disable Lockscreen bottom shortcuts.
+- Added Custom Ambient display.
+- Added Pulse on new tracks Toggle.
+- Added Double Tap to Trigger Doze.
+- Added Doze Brightness options.
+- Added Ambient Edge Pulse.
+- Added Screen-off Animations.
+- Added Smart pixels.
+- Added Suspend Actions.
+- Added Aggressive Battery Toggle.
+- Added Live volume steps.
+- Added Fullscreen for Notch devices.
+- Added Smart charging.
+- Added Face unlock from PE.
+- Added Ambient battery Toggle.
+
+Device Changelogs
+=================
+- Azure kernel Upstreme.
+- Added Gcam Go.
+- Enable smartpixels.
+- Removed Gapps.
+- CTS failed Fixed.
