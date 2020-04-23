@@ -1,0 +1,47 @@
+Device     : tulip
+Version    : v1.7
+Maintainer : nshorty
+
+Source Changelogs
+=================
+- Fixed Statusbar & carrier label Fonts.
+- Fixed wallpaper flickering.
+- Fixed Advanced power menu crash.
+- Removed Gradient Switches & Added OP switches.
+- Added VoLTE Icon styles with Rebellion VoLTE Icons.
+- Added Old type network icon.
+- Added 3 fingers swipe Screenshot.
+- Added Rounded corners & Padding preferences.
+- Added inverse Navbar Toggle.
+- Added Navbar Layout.
+- Added Pocket mode in lockscreen.
+- Added Unlock with FP after reboot Toggle.
+- Added Ambient Visualizer.
+- Added Ambient Visualizer Opacity.
+- Added Lockscreen Clock styles.
+- Added Lockscreen clock, date fonts & sizes.
+- Added Lockscreen colors.
+- Added option to disable Lockscreen bottom shortcuts.
+- Added Custom Ambient display.
+- Added Pulse on new tracks Toggle.
+- Added Double Tap to Trigger Doze.
+- Added Doze Brightness options.
+- Added Ambient Edge Pulse.
+- Added Screen-off Animations.
+- Added Smart pixels.
+- Added Suspend Actions.
+- Added Aggressive Battery Toggle.
+- Added Live volume steps.
+- Added Fullscreen for Notch devices.
+- Added Smart charging.
+- Added Face unlock from PE.
+- Added Ambient battery Toggle.
+
+Device Changelogs
+=================
+- Map Button Jack to fix headset button controls
+- Set Gcam Go as default camera
+- Add smart charging overlay
+- Updated power profile from stock
+- Kernel: OC display refresh rate to 65Hz (tested)
+- Other fix and improvements
