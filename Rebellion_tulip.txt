@@ -39,9 +39,8 @@ Source Changelogs
 
 Device Changelogs
 =================
-- Map Button Jack to fix headset button controls
-- Set Gcam Go as default camera
-- Add smart charging overlay
-- Updated power profile from stock
-- Kernel: OC display refresh rate to 65Hz (tested)
+- Kernel upstreamed to .220
+- Fixed hotspot
+- Fixed Night Light
+- Revert back to 60Hz display
 - Other fix and improvements
