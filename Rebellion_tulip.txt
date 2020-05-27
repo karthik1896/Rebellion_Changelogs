@@ -1,46 +1,129 @@
 Device     : tulip
-Version    : v1.7
+Version    : v1.8
 Maintainer : nshorty
 
 Source Changelogs
 =================
-- Fixed Statusbar & carrier label Fonts.
-- Fixed wallpaper flickering.
-- Fixed Advanced power menu crash.
-- Removed Gradient Switches & Added OP switches.
-- Added VoLTE Icon styles with Rebellion VoLTE Icons.
-- Added Old type network icon.
-- Added 3 fingers swipe Screenshot.
-- Added Rounded corners & Padding preferences.
-- Added inverse Navbar Toggle.
-- Added Navbar Layout.
-- Added Pocket mode in lockscreen.
-- Added Unlock with FP after reboot Toggle.
-- Added Ambient Visualizer.
-- Added Ambient Visualizer Opacity.
-- Added Lockscreen Clock styles.
-- Added Lockscreen clock, date fonts & sizes.
-- Added Lockscreen colors.
-- Added option to disable Lockscreen bottom shortcuts.
-- Added Custom Ambient display.
-- Added Pulse on new tracks Toggle.
-- Added Double Tap to Trigger Doze.
-- Added Doze Brightness options.
-- Added Ambient Edge Pulse.
-- Added Screen-off Animations.
-- Added Smart pixels.
-- Added Suspend Actions.
-- Added Aggressive Battery Toggle.
-- Added Live volume steps.
-- Added Fullscreen for Notch devices.
-- Added Smart charging.
-- Added Face unlock from PE.
-- Added Ambient battery Toggle.
+Rebellion-OS v1.8-Changelogs
+
+• May Security Patch
+
+• Removed Face unlock.
+
+• Improved Network Traffic.
+
+• Improved Partial Screenshot.
+
+• Completely Fixed Statusbar clock & Carrier Fonts.
+
+• Added Bluetooth Battery status Toggle.
+
+• Added User selectable Network Traffic Fonts.
+
+• Added Statusbar & Expanded Statusbar weather.
+
+• Added QS Header Image Height offset.
+
+• Added IAmARebel😎 Tag in QS Footer.
+
+• Added QS Footer text editor.
+
+• Added QS Blur, Intensity, Alpha.
+
+• Added QS Rows customisations.
+
+• Added Long swipe Actions.
+
+• Added Navbar pill size options.
+
+• Added Powermenu Background Filters.
+
+• Added Powermenu menu Dialog Transparency.
+
+• Added On-The-Go mode.
+
+• Added Option to hide Lock icon is Lockscreen.
+
+• Added Date styles.
+
+• Added Option to center the Text clock.
+
+• Added Lockscreen notification counts.
+
+• Added FPS info tile.
+
+• Added few QS Tiles.
+
+• Added Breathing Notifications.
+
+• Added Statusbar Notification Ticker.
+
+• Added Lockscreen charging bolt.
+
+• Added Blink flashlight for calls.
+
+• Added Round power menu Animations.
+
+• Added ADB Over network Tile.
+
+• Added Option to Change device Host name.
+
+• Added Sensor block per package.
+
+• Added Signature Spoofing.
+
+• Added Alarms, wakelock blocker.
+
+• Added Doze & Time in state.
+
+• Added Screen shot type.
+
+• Added Long screen shot from Asus.
+
+• Added Toast icon colors.
+
+• Added options to hide settings dashboard conditions.
+
+• Added Volume dialog on left Toggle.
+
+• Added Volume dialog timeout.
+
+• Added Extend Volume panel.
+
+• Added Gaming mode.
+
+• Added Screen Stabilization.
+
+• Added Full screen gesture.
+
+• Added Option to Hide Gesture Arrow.
+
+• Added Panel for Data & Bluetooth.
+
+• Added Screen Recording.
+
+
+
+Guys, If you like my Work or the ROM You can support me or the development by donating😋
+
+
+
+PayPal: http://paypal.me/aniruddh9
+
+UPI/GooglePay : advaithbhat9@okhdfcbank
+
+PhonePe : 8281149118
 
 Device Changelogs
 =================
-- Kernel upstreamed to .220
-- Fixed hotspot
-- Fixed Night Light
-- Revert back to 60Hz display
-- Other fix and improvements
+- Kernel upstreamed to .222
+- Switch to FBE(rebased to latest Los Device tree)
+- Adjust status bar padding
+- Include MiuiCamera as stock cam
+
+Install Instructions:
+
+https://telegra.ph/How-to-install-FBE-roms-05-26
+
+
+
