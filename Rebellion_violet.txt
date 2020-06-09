@@ -1,47 +1,97 @@
 Device : violet
-Version : v1.7
-Maintainer : vishwas7
+Version : v1.9 & v1.8
+Maintainer : V!SHW@S7
 
 
 Source Changelogs
 =================
-- Fixed Statusbar & carrier label Fonts.
-- Fixed wallpaper flickering.
-- Fixed Advanced power menu crash.
-- Removed Gradient Switches & Added OP switches.
-- Added VoLTE Icon styles with Rebellion VoLTE Icons.
-- Added Old type network icon.
-- Added 3 fingers swipe Screenshot.
-- Added Rounded corners & Padding preferences.
-- Added inverse Navbar Toggle.
-- Added Navbar Layout.
-- Added Pocket mode in lockscreen.
-- Added Unlock with FP after reboot Toggle.
-- Added Ambient Visualizer.
-- Added Ambient Visualizer Opacity.
-- Added Lockscreen Clock styles.
-- Added Lockscreen clock, date fonts & sizes.
-- Added Lockscreen colors.
-- Added option to disable Lockscreen bottom shortcuts.
-- Added Custom Ambient display.
-- Added Pulse on new tracks Toggle.
-- Added Double Tap to Trigger Doze.
-- Added Doze Brightness options.
-- Added Ambient Edge Pulse.
-- Added Screen-off Animations.
-- Added Smart pixels.
-- Added Suspend Actions.
-- Added Aggressive Battery Toggle.
-- Added Live volume steps.
-- Added Fullscreen for Notch devices.
-- Added Smart charging.
-- Added Face unlock from PE.
-- Added Ambient battery Toggle.
+v1.9
+
+• June Security Patch.
+• Source Improvements.
+• FOD Improvements.
+• Fixed Text Clock Fonts.
+• Added Switch Styles.
+• Added QS header Styles.
+• Added Custom Theming with Rebellion(Transparent) theme.
+• Added QS Themes & QS icon Tint Toggle.
+• Added Noisy notification Toggle.
+• Added R Style Notification Toggle.
+• Added OnePlus FOD Animations.
+• Added Touch HIDL Support & Touch gestures.
+• Added Toggle to turn off Swipe gestures vibration haptics.
+• Added L-swipe gestures.
+• Added Toggle for privacy indicators.
+• Added OOS Clear all Notifications.
+• Added QS data usage info Toggle.
+• Added Legacy App scaling.
+• Added 1 QS Row in landscape Mode.
+• Added App select side bar.
+• Added Gestures Anywhere.
+• Added Minimal-Abstract header images.
+• Added Live Display.
+• Added Advanced battery info.
+• Added Seekbar for system Animations.
+
+
+v1.8
+
+• May Security Patch
+• Removed Face unlock.
+• Improved Network Traffic.
+• Improved Partial Screenshot.
+• Completely Fixed Statusbar clock & Carrier Fonts.
+• Added Bluetooth Battery status Toggle.
+• Added User selectable Network Traffic Fonts.
+• Added Statusbar & Expanded Statusbar weather.
+• Added QS Header Image Height offset.
+• Added IAmARebel😎 Tag in  QS Footer.
+• Added QS Footer text editor.
+• Added QS Blur, Intensity, Alpha.
+• Added QS Rows customisations.
+• Added Long swipe Actions.
+• Added Navbar pill size options.
+• Added Powermenu Background Filters.
+• Added Powermenu menu Dialog Transparency.
+• Added On-The-Go mode.
+• Added Option to hide Lock icon is Lockscreen.
+• Added Date styles.
+• Added Option to center the Text clock.
+• Added Lockscreen notification counts.
+• Added FPS info tile.
+• Added few QS Tiles.
+• Added Breathing Notifications.
+• Added Statusbar Notification Ticker.
+• Added Lockscreen charging bolt.
+• Added Blink flashlight for calls.
+• Added Round power menu Animations.
+• Added ADB Over network Tile.
+• Added Option to Change device Host name.
+• Added Sensor block per package.
+• Added Signature Spoofing.
+• Added Alarms, wakelock blocker.
+• Added Doze & Time in state.
+• Added Screen shot type.
+• Added Long screen shot from Asus.
+• Added Toast icon colors.
+• Added options to hide settings dashboard conditions.
+• Added Volume dialog on left Toggle.
+• Added Volume dialog timeout.
+• Added Extend Volume panel.
+• Added Gaming mode.
+• Added Screen Stabilization.
+• Added Full screen gesture.
+• Added Option to Hide Gesture Arrow.
+• Added Panel for Data & Bluetooth.
+• Added Screen Recording.
 
 Device Changelogs
-=================
-- Azure kernel Upstreme.
-- Added Gcam Go.
-- Enable smartpixels.
-- Removed Gapps.
-- CTS failed Fixed.
+==================
+
+• Updated Gcam Go to v2
+• Azure Kernel upstreamed
+• Miscellaneous audio improvement
+• Updated Build FP to June patch
+• Enabled Call recording overlay
+• Added Dirac sound
+• Fixed Encrypted devices getting Bootlooped
