@@ -1,0 +1,46 @@
+Device     : Daisy
+Version    : v1.9
+Maintainer : TogoFire
+
+Source Changelogs
+=================
+v1.9
+
+• June Security Patch.
+• Source Improvements.
+• FOD Improvements.
+• Fixed Text Clock Fonts.
+• Added Switch Styles.
+• Added QS header Styles.
+• Added Custom Theming with Rebellion(Transparent) theme.
+• Added QS Themes & QS icon Tint Toggle.
+• Added Noisy notification Toggle.
+• Added R Style Notification Toggle.
+• Added OnePlus FOD Animations.
+• Added Touch HIDL Support & Touch gestures.
+• Added Toggle to turn off Swipe gestures vibration haptics.
+• Added L-swipe gestures.
+• Added Toggle for privacy indicators.
+• Added OOS Clear all Notifications.
+• Added QS data usage info Toggle.
+• Added Legacy App scaling.
+• Added 1 QS Row in landscape Mode.
+• Added App select side bar.
+• Added Gestures Anywhere.
+• Added Minimal-Abstract header images.
+• Added Live Display.
+• Added Advanced battery info.
+• Added Seekbar for system Animations.
+
+Device Changelogs
+=================
+- Address sepolicy denials
+- Kernel 4.9.226 Sleepy
+- XiaomiParts: Add FPS info
+- Optimize GPS
+- Optimize Display
+- Support Spectrum
+- Camera2
+- Google Play System Update (Apex)
+- Enforcing
+- And other improvements
