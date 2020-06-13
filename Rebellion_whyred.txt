@@ -1,94 +1,74 @@
 Device     : whyred
-Version    : v1.8
+Version    : v1.9
 Maintainer : Zeeshan Ahmed
+
 
 Source Changelogs
 =================
-• May Security Patch
-• Removed Face unlock.
-• Improved Network Traffic.
-• Improved Partial Screenshot.
-• Completely Fixed Statusbar clock & Carrier Fonts.
-• Added Bluetooth Battery status Toggle.
-• Added User selectable Network Traffic Fonts.
-• Added Statusbar & Expanded Statusbar weather.
-• Added QS Header Image Height offset.
-• Added IAmARebel😎 Tag in QS Footer.
-• Added QS Footer text editor.
-• Added QS Blur, Intensity, Alpha.
-• Added QS Rows customisations.
-• Added Long swipe Actions.
-• Added Navbar pill size options.
-• Added Powermenu Background Filters.
-• Added Powermenu menu Dialog Transparency.
-• Added On-The-Go mode.
-• Added Option to hide Lock icon is Lockscreen.
-• Added Date styles.
-• Added Option to center the Text clock.
-• Added Lockscreen notification counts.
-• Added FPS info tile.
-• Added few QS Tiles.
-• Added Breathing Notifications.
-• Added Statusbar Notification Ticker.
-• Added Lockscreen charging bolt.
-• Added Blink flashlight for calls.
-• Added Round power menu Animations.
-• Added ADB Over network Tile.
-• Added Option to Change device Host name.
-• Added Sensor block per package.
-• Added Signature Spoofing.
-• Added Alarms, wakelock blocker.
-• Added Doze & Time in state.
-• Added Screen shot type.
-• Added Long screen shot from Asus.
-• Added Toast icon colors.
-• Added options to hide settings dashboard conditions.
-• Added Volume dialog on left Toggle.
-• Added Volume dialog timeout.
-• Added Extend Volume panel.
-• Added Gaming mode.
-• Added Screen Stabilization.
-• Added Full screen gesture.
-• Added Option to Hide Gesture Arrow.
-• Added Panel for Data & Bluetooth.
-• Added Screen Recording.
 
-
+• June Security Patch.
+• Source Improvements.
+• FOD Improvements.
+• Fixed Text Clock Fonts.
+• Added Switch Styles.
+• Added QS header Styles.
+• Added Custom Theming with Rebellion(Transparent) theme.
+• Added QS Themes & QS icon Tint Toggle.
+• Added Noisy notification Toggle.
+• Added R Style Notification Toggle.
+• Added OnePlus FOD Animations.
+• Added Touch HIDL Support & Touch gestures.
+• Added Toggle to turn off Swipe gestures vibration haptics.
+• Added L-swipe gestures.
+• Added Toggle for privacy indicators.
+• Added OOS Clear all Notifications.
+• Added QS data usage info Toggle.
+• Added Legacy App scaling.
+• Added 1 QS Row in landscape Mode.
+• Added App select side bar.
+• Added Gestures Anywhere.
+• Added Minimal-Abstract header images.
+• Added Live Display.
+• Added Advanced battery info.
+• Added Seekbar for system Animations.
 
 Device Changelogs
 =================
-Note-
-*Current build is enforcing..If your fav sound mod isnt working switch to permissive
 
-MiuiCamera :-
-*Old Cam Blobs
+MiuiCamera Old Camera Blobs
+LED Implementation New
 
-*Switched to Enforcing
-*Updated Build Fingerprint From Crosshatch
-*Address Xiaomi Parts Denials and some missing permissions
-*Fix some force closing Gcam
-*Address Camera Denials
-*Address some more denials
-*Fix TRCamera Issues For Few Users
-*Switch to ZenParts(find it under Rebellion-Hub)
-*Fix Google Pay Issues and Few More Banking Apps Without Root(Works out of the box)
-*Fix Magisk 20.4 Stable Issues and Device Not Certified Issues(No need of magisk hide or modules)
-*Re-organize Surfaceflinger Props and add missing backpressure prop
-*Optimize the System UI
-* Remove send_mic_mute overlay
-*Add voice multi session property
-*Add wowlan_triggers to wpa_supplicant conf
-*Update ini parameters for wifi
-*Update vibration pattern from sargo
-*Rework on Mi Sound Enhancer
-*Overwrite Bluetooth operating voltage to 3.7V
-*Add overlay for haptic text cursor
-*Added more Kcal Profiles in Xiaomi Parts
-*Update Thermal Blobs from LA.UM.8.2.r1-06200-sdm660.0
-*Update default dpi to 410
-* Maybe More....
+Switch to LineageOS common trees(Thanks to the team for trees)
+FM works now(Thanks to trees)
+Switch to New Led Implementation
+Update Build Fingerprint From Coaral's June Security Patch
+Fix Battery Charging Led Goes While Notification Comes in While Charging
+Fix Encryption
+Fix f2fs issues and recovery issues
+Enforcing Build
+Miui Camera 60fps+eis and 30fps+eis Works AF
+Enable AUDIO_FEATURE_ENABLED_EXTENDED_COMPRESS_FORMAT 
+Add AuthSecret HAL service
+Support A2DP offload for Bluetooth Audio HAL V2
+Import bluetooth_qti_audio_policy_configuration.xml from Lavender 20.3.19-release
+Address camera, xiaomi parts and more denials
+Address camera denials
+Update cnss daemon from jasmine V11.0.8.0 Release
+Update acdb, audio amplifier,consumerir,dirac,fingerprint firmware and sensor,gatekeeper,graphics,keystore sensors from miui 20.4.27 release
+Rest blobs are from jasmine 11.0.8.0 Release
+Update thermal blobs from LA.UM.8.2.r1-06200-sdm660
+Rest thermal blobs from T-Engine v3(Thanks to k1ks)
+offload 24 bits playback supports mp3/aac format
+Enabling 24 bit profile for audio capture
+Update light saner ramp values
+Address few dmseg denials
+Add few missing dirac props
+Improve Ram Management
+Enable Smart Pixels
+Improve Burn-in Protection
 
-Kernel Side Changes:-
+And more....
 
-*Switch Back to Latest Extended EAS Kernel
-*Upstreamed to latest sources
+Kernel Side ChangeLogs:-
+Mystic-1.9
+Kernel Upstreamed
