@@ -1,66 +1,84 @@
-Date - 06/05/2020
+Date - 14/06/2020
 =================
 
 Source Changelogs:
-• May Security Patch
-• Removed Face unlock.
-• Improved Network Traffic.
-• Improved Partial Screenshot.
-• Completely Fixed Statusbar clock & Carrier Fonts.
-• Added Bluetooth Battery status Toggle.
-• Added User selectable Network Traffic Fonts.
-• Added Statusbar & Expanded Statusbar weather.
-• Added QS Header Image Height offset.
-• Added IAmARebel😎 Tag in QS Footer.
-• Added QS Footer text editor.
-• Added QS Blur, Intensity, Alpha.
-• Added QS Rows customisations.
-• Added Long swipe Actions.
-• Added Navbar pill size options.
-• Added Powermenu Background Filters.
-• Added Powermenu menu Dialog Transparency.
-• Added On-The-Go mode.
-• Added Option to hide Lock icon is Lockscreen.
-• Added Date styles.
-• Added Option to center the Text clock.
-• Added Lockscreen notification counts.
-• Added FPS info tile.
-• Added few QS Tiles.
-• Added Breathing Notifications.
-• Added Statusbar Notification Ticker.
-• Added Lockscreen charging bolt.
-• Added Blink flashlight for calls.
-• Added Round power menu Animations.
-• Added ADB Over network Tile.
-• Added Option to Change device Host name.
-• Added Sensor block per package.
-• Added Signature Spoofing.
-• Added Alarms, wakelock blocker.
-• Added Doze & Time in state.
-• Added Screen shot type.
-• Added Long screen shot from Asus.
-• Added Toast icon colors.
-• Added options to hide settings dashboard conditions.
-• Added Volume dialog on left Toggle.
-• Added Volume dialog timeout.
-• Added Extend Volume panel.
-• Added Gaming mode.
-• Added Screen Stabilization.
-• Added Full screen gesture.
-• Added Option to Hide Gesture Arrow.
-• Added Panel for Data & Bluetooth.
-• Added Screen Recording.
+• June Security Patch. 
+• Source Improvements.
+• FOD Improvements.
+• Fixed Text Clock Fonts.
+• Added Switch Styles.
+• Added QS header Styles.
+• Added Custom Theming with Rebellion(Transparent) theme.
+• Added QS Themes & QS icon Tint Toggle.
+• Added Noisy notification Toggle.
+• Added R Style Notification Toggle.
+• Added OnePlus FOD Animations.
+• Added Touch HIDL Support & Touch gestures.
+• Added Toggle to turn off Swipe gestures vibration haptics.
+• Added L-swipe gestures.
+• Added Toggle for privacy indicators.
+• Added OOS Clear all Notifications.
+• Added QS data usage info Toggle.
+• Added Legacy App scaling.
+• Added 1 QS Row in landscape Mode.
+• Added App select side bar.
+• Added Gestures Anywhere.
+• Added Minimal-Abstract header  images.
+• Added Live Display.
+• Added Advanced battery info.
+• Added Seekbar for system Animations.
+• Added Theme Tile.
 
 Device Changelogs:
-- Add overlay for MAC randomization toggle in developer settings
-- Enable Smooth Streaming for secure video playback
-- Powersaving in charger mode
-- Address some cnd & dpmd denials
-- Enable support for Pocket mode
-- Add overlays for SystemInfo
-- Fix rendering lags for real 
-- Fixed Smartcharging
-- Fix button overlays
-- Fix video recording issues
-- Switch default thermal zone for CPU info overlay
-and many more stuff...
+• Device Tree Rebased on 4.9 Kernel
+• Added Perf 4.9 Kernel
+• Build kernel with Clang 11.0.1
+• Add overlays for SystemInfo
+• adapt the exact values for lockscreen charging info
+• XiaomiParts: Add Speaker Gain
+• Add sepolicy for Speaker gain
+• Xiaomiparts: Add Spectrum Tile
+• XiaomiParts: Fix USB Fastcharge
+• XiaomiParts: Add FPS info
+• XiaomiParts: Add Ambient Display Gestures 
+• XiaomiParts: Digital-style icon for FPSInfo QS Tile
+• Let's really fix the flicker issue this time
+• Use 8 icons in statusbar
+• fix Reboot issue
+• enable QPower and Deep sleep at the same time
+• Fix Screen Glitches
+• Improve touch detection
+• Update and modify wcnss_service 
+• switch to prebuilt hwc blobs
+• Force triple frame buffers 
+• Drop offset properties
+• Drop unused camera firmware
+• Update CarrierConfig from LA.UM.8.6.r1-04400-89xx.0
+• Set vfs cache pressure to 100
+• Set thermal profile on boot
+• Wifi Bonding For 2.4ghz band
+• XiaomiParts : Fixed Spectrum Tile Derp
+• Kang missing camera libs from Hydrogen
+• Disable SF backpressure  
+• Update left-over CarrierConfig overlays from Tissot
+• Replace qcom's deep_buffer with AOSP low_latency
+• Disable ULL mode for speakers
+• Enable frameworks boost 
+• Overlays for devices specific 'Intelligent Profile'
+• Battery Health Overlays
+• tune zram performance 
+• Update USB ConfigFS from LA.UM.8.6.r1-02600-89xx.0
+• Update sepolicy for 4.9
+• Enable API override for mm-qcamera-daemon
+• Set loop.max_part to 16
+• Update custom fingerprint service for msm-4.9
+• Inherit legacy camera stack headers 
+• Fix service location
+• XiaomiParts: Add new Vibration Control 
+• XiaomiParts: Fix Torch
+• Add permissions for Notification LED
+• sepolicy: Address denials 
+• Add permission for XiaomiParts
+• Revert "mido: import optimized thermal engine from thehitman7"
+• Switch to thermal blobs from olive V10.3.5.0.PCNCNXMSwitch to thermal blobs from olive V10.3.5.0.PCNCNXM
+And a whole lot of stuff i may be forgot to mention...
