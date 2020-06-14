@@ -35,9 +35,8 @@ Source Changelogs
 
 Device Changelogs
 =================
-• Initial Build.
-• Selinux Permissive (Temporary)
-• Added FPS Info.
-• Add QS System Info Overlays.
-• Compiled with Clang 11.0.1.
-• FOD HAL 1.1.
+• Selinux Permissive
+• Added VOOC Charging.
+• Added Touch screen Gestures.
+• Fixed FOD icon overlapping with keyugaurd lock.
+• Fixed Keygaurd charging animation overlapping with FOD icon.
