@@ -1,6 +1,6 @@
 Device     : X00TD
 Version    : v1.9
-Maintainer : PKM774
+Maintainer : Karthik
 
 Source Changelogs
 =================
@@ -34,9 +34,8 @@ v1.9
 
 Device Changelogs
 =================
-- Firmware 058 or above.
-- Added GoogleCameraGo.
-- Kernel upstreamed to 4.4.224-Disaster.
-- Added ambient gestures in Zenparts.
+- Firmware 060 or above.
+- Kernel upstreamed to 4.4.224-Hackeyened.
+- Initial Build
 - ROM is Smooth Af.
 
